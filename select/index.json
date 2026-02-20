@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "おままごと",
+  "base_artist": "Queen Bee",
+  "createdAt": "2026-02-20T15:20:57.619815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おままごと",
+      "artist": "AOE",
+      "has_synced": true,
+      "path": "select/01_おままごと_AOE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おままごと",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/02_おままごと_女王蜂.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おままごと",
+      "artist": "HYPNOSISMIC -D.R.B- (Honobono Keitoin)",
+      "has_synced": false,
+      "path": "select/03_おままごと_HYPNOSISMIC_-D.R.B-_(Honobono_Keitoin).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おままごと",
+      "artist": "Queen Bee",
+      "has_synced": false,
+      "path": "select/04_おままごと_Queen_Bee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おままごと",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_おままごと_女王蜂.txt"
+    }
+  ]
+}
